@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on Julia Compiler
 - 📫 How to reach me darkmayhem9999@gmail.com 
 
-15y
+15y advanced c++ developer, i looking for job(s) :)
 
 <!---
 mahyemcode/mahyemcode is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
