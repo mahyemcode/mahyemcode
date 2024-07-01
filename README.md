@@ -2,7 +2,7 @@
 - 👀 I’m interested in Java, C++, C, Julia
 - 🌱 I’m currently learning Julia
 - 💞️ I’m looking to collaborate on Julia Compiler
-- 📫 How to reach me darkmayhem9999@gmail.com
+- 📫 How to reach me darkmayhem9999@gmail.com \n
 15y
 
 <!---
